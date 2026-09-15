@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Pear Body with Play Button cut-out -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillType="evenOdd"
+        android:pathData="M54,30
+                          C46,30 42,38 42,48
+                          C42,60 32,65 32,75
+                          C32,85 42,88 54,88
+                          C66,88 76,85 76,75
+                          C76,65 66,60 66,48
+                          C66,38 62,30 54,30
+                          Z
+                          M49,60
+                          L49,76
+                          L62,68
+                          Z" />
+    <!-- Curved Stem/Leaf -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,30
+                          C54,25 58,20 65,20
+                          C65,20 60,28 54,30" />
+</vector>

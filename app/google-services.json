@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "692199866055",
+    "project_id": "personal-playlist-171d0",
+    "storage_bucket": "personal-playlist-171d0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692199866055:android:29812b6619436f217048e2",
+        "android_client_info": {
+          "package_name": "com.endfield.pearmusic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSBAq_NGQCZSnkyEpunuDv4CV21nkMVHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

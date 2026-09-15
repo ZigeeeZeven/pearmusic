@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.PearMusic" parent="Theme.MaterialComponents.Light" />
+</resources>
