@@ -5,6 +5,7 @@
 A modern, lightweight Android audio player built with Kotlin and Jetpack Compose.
 
 # If there's a Bug Please Report It To zevenn07@outlook.com
+I know this app is still have a lot of bugs
 
 ---
 
