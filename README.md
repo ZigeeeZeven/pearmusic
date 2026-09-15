@@ -1,5 +1,7 @@
 # 🍐 Pear Music
 
+> **Note:** This project is just for my boredom.
+
 A modern, lightweight Android audio player built with Kotlin and Jetpack Compose.
 
 ---
@@ -29,7 +31,7 @@ A modern, lightweight Android audio player built with Kotlin and Jetpack Compose
 
 - Android Studio (Ladybug or newer recommended)
 - JDK 17+
-- Android Device / Emulator (Android 7.0+ / API level 26+)
+- Android Device (Android 7.0+ / API level 26+)
 
 ### Installation & Setup
 
