@@ -1,6 +1,8 @@
 # 🍐 Pear Music
 
 > **Note:** This project is just for my boredom. **I know this app still has a lot of bugs!** If you run into any issues, please report them to **zevenn07@outlook.com**.
+> 
+> 🌐 **This App Also Has A Web Version!** Check it out here: [pearmusic-web.vercel.app](https://pearmusic-web.vercel.app)
 
 A modern, high-performance, lightweight Android audio player built with Kotlin, Jetpack Compose, and advanced audio pipeline caching. Optimized for near-instant library scanning, smooth 60fps scrolling, and zero-bandwidth cloud directory browsing.
 
